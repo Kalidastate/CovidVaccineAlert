@@ -1,3 +1,9 @@
+Sample application for generating alters when Covid-19 vaccines are available for age group 18-45
+
+This application uses Co-WIN Public APIs to find appointment availabilty.
+
+For more information about Co-WIN Public APIs please check https://apisetu.gov.in/public/api/cowin
+
 Usage:
 CovidVaccineAlert.exe ListOfPinCode.txt <Date>
 e.g. CovidVaccineAlert.exe ListOfPinCode.txt 12-05-2021
