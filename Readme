@@ -1,0 +1,3 @@
+Usage:
+CovidVaccineAlert.exe ListOfPinCode.txt <Date>
+e.g. CovidVaccineAlert.exe ListOfPinCode.txt 12-05-2021
