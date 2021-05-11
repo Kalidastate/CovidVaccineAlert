@@ -1,0 +1,8 @@
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\obj\Debug\CovidVaccineAlert.csprojResolveAssemblyReference.cache
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\bin\Debug\CovidVaccineAlert.exe.config
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\bin\Debug\CovidVaccineAlert.exe
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\bin\Debug\CovidVaccineAlert.pdb
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\obj\Debug\CovidVaccineAlert.exe
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\obj\Debug\CovidVaccineAlert.pdb
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\bin\Debug\Newtonsoft.Json.dll
+c:\users\kalid\onedrive\documents\visual studio 2017\Projects\CovidVaccineAlert\CovidVaccineAlert\bin\Debug\Newtonsoft.Json.xml

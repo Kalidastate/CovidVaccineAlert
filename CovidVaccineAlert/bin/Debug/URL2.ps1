@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=415107&date=08-05-2021" | Select-Object -Expand Content
